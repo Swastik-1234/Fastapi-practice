@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Redis dump files (if any)
+dump.rdb
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Log files
+*.log
